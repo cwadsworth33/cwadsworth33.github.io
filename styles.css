@@ -281,7 +281,11 @@ textarea{
   .cell-img {
 		width: 95vw;
 	}
-  
+
+  #navbar > span{
+    font-size: 14px;
+  }
+
   #section1{
     background-attachment: scroll;
   }
