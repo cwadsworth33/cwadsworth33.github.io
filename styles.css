@@ -283,7 +283,11 @@ textarea{
 	}
 
   #navbar > span{
-    font-size: 14px;
+    font-size: 14pt;
+  }
+
+  .welcome-icon{
+    font-size: 14pt;
   }
 
   #section1{
