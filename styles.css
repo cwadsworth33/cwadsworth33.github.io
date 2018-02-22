@@ -286,9 +286,7 @@ textarea{
     font-size: 14pt;
   }
 
-  .welcome-icon{
-    font-size: 14pt;
-  }
+  a i { font-size: 18px; }
 
   #section1{
     background-attachment: scroll;
