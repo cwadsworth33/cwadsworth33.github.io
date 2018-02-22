@@ -277,6 +277,11 @@ textarea{
 }
 
 @media(max-width: 559px){
+
+  .cell-img {
+		width: 95vw;
+	}
+  
   #section1{
     background-attachment: scroll;
   }
@@ -320,6 +325,7 @@ textarea{
 	body{
 		font-size: 18pt;
 	}
+
 	#box{
 		width: 50%;
 	}
