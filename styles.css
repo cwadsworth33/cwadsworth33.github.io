@@ -285,7 +285,7 @@ textarea{
 
   #box{
     border: 0px solid white;
-    padding: 20px;
+    padding: 0px;
     width: 100%;
     margin:auto;
   }
@@ -301,11 +301,8 @@ textarea{
   a i { font-size: 12px; }
 
   #section1{
-    padding-bottom: 50px;
-  }
-
-  #section1{
     background-attachment: scroll;
+    padding-bottom: 20px;
   }
   #section3{
     background-attachment: scroll;
