@@ -117,7 +117,6 @@ h3{
   padding: 15px;
 }
 
-
 #section3{
   background-image: url("Images/coffee_desk.jpg");
   background-size: cover;
@@ -278,6 +277,7 @@ textarea{
 
 @media(max-width: 559px){
 
+
   #navbar{
     margin: auto;
     margin-bottom: 30px;
@@ -302,7 +302,6 @@ textarea{
 
   #section1{
     background-attachment: scroll;
-    padding-bottom: 20px;
   }
   #section3{
     background-attachment: scroll;
@@ -336,6 +335,11 @@ textarea{
   }
   #sec3scroll{
     display: none;
+  }
+  #content-wrapper2{
+    min-height: 90%;
+    width: 90%;
+    margin: auto;
   }
 
 }
