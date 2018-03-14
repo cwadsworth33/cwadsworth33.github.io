@@ -278,6 +278,10 @@ textarea{
   text-shadow: 2px 2px #000;
 }
 
+.animate-box{
+  animation-delay: 1s;
+}
+
 @media(max-width: 559px){
 
 
