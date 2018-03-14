@@ -102,6 +102,7 @@ h3{
 }
 
 #section1{
+  background-color: #555;
   background-image: url("Images/wood.jpeg");
   background-size: cover;
   background-attachment: fixed;
