@@ -273,6 +273,7 @@ textarea{
   width: 500px;
   margin:auto;
   border-radius: 4px;
+  text-shadow: 2px 2px #000;
 }
 
 @media(max-width: 559px){
