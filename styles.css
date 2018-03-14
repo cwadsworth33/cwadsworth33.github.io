@@ -279,7 +279,7 @@ textarea{
 }
 
 .animate-box{
-  animation-delay: 1s;
+  //animation-delay: 1s;
 }
 
 @media(max-width: 559px){
