@@ -227,7 +227,7 @@ input{
 textarea{
   width: 400px;
   height: 300px;
-  background-color: #91A0B3;
+  background-color: inherit;
   border: 1px solid white;
   border-radius: 4px;
   margin: 5px;
@@ -239,7 +239,7 @@ textarea{
 #button{
   padding: 6px;
   color: white;
-  background-color: #91A0B3;
+  background-color: inherit;
   border-radius: 4px;
   font-size: 20pt;
   transition: .5s ease;
