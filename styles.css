@@ -165,6 +165,7 @@ i{
 i:hover{
   cursor: pointer;
   color: gold;
+  text-decoration: none;
 }
 
 .section-container{
