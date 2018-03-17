@@ -4,6 +4,10 @@ html, body{
   font-size: 14pt;
 }
 
+#sec1scroll{
+  animation-duration: 3s;
+}
+
 .cell-img{
 	width: 350px;
 }
