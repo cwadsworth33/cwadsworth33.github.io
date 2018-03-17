@@ -8,6 +8,10 @@ html, body{
   animation-duration: 2s;
 }
 
+.anime{
+  animation-duration: 4s;
+}
+
 .cell-img{
 	width: 350px;
 }
